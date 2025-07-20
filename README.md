@@ -12,6 +12,19 @@ This project is an AI-powered job recommender system that analyzes your resume a
 - Get a personalized career roadmap.
 - Fetch job recommendations from LinkedIn and Naukri based on your profile.
 
+## Project Structure
+
+```
+AI-Powered-Job-recommender/
+├── app.py
+├── mcp_server.py
+├── src/
+│   ├── job_api.py
+│   └── helper.py
+├── requirements.txt
+├── .env.example
+└── README.md
+```
 ## Getting Started
 
 ### Prerequisites
