@@ -1,4 +1,5 @@
 # AI-Powered-Job-recommender
+![mcpproject-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/110bfd8d-c76c-462f-90f7-a70ad55c92ee)
 
 
 This project is an AI-powered job recommender system that analyzes your resume and provides personalized job recommendations from LinkedIn and Naukri. It also highlights skill gaps and suggests a future roadmap to improve your career prospects.
